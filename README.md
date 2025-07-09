@@ -320,3 +320,59 @@ File.WriteAllText(Filepath,Filecontent);
 String FileContent=File.ReadAllText(Filepath);
 
 Console.WriteLine(FileContent);
+
+👉️ OPERATORS
+
+1... Arithmetic operators
+
+(+). Addition
+
+(-). Subtraction
+
+(*). Multiplication
+
+(/). Division
+
+(%). Modulus
+
+2... Relational operators
+
+(>). Greater than
+
+(<). Less than
+
+(>=). Greater than equal to
+
+(<=). Less than equal to
+
+(==). Equal to equal to
+
+(!=). Not equal to
+
+3...Logical operators
+
+(&&). Logical and
+
+(||). Logical or
+
+(!). Logical not
+
+4...Increment/Decrement operators
+
+(++). Increment
+
+(--). Decrement
+
+5...Ternary operators
+
+(?). Question mark
+
+(:). Colon
+
+6...Assignment operators
+
+(=). Equal to
+
+Created by
+
+S rahire
